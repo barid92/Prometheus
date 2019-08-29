@@ -1,0 +1,7 @@
+C:\Users\bartek\Desktop\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.pdb

@@ -1,0 +1,5 @@
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Release\Keylogger.exe.config
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Release\Keylogger.exe
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\bin\Release\Keylogger.pdb
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\obj\Release\Keylogger.exe
+C:\Users\bartek\Documents\krypto.keylogger\Keylogger\Keylogger\obj\Release\Keylogger.pdb
